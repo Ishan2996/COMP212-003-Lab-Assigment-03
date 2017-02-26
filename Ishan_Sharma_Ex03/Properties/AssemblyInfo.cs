@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Ishan_Sharma_Lab03_Ex-01")]
+[assembly: AssemblyTitle("Ishan_Sharma_Ex03")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ishan_Sharma_Lab03_Ex-01")]
+[assembly: AssemblyProduct("Ishan_Sharma_Ex03")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d0680a9b-c80f-4181-b685-a4383e43672f")]
+[assembly: Guid("60683108-6ef2-45ea-9a11-f8acf981d0b8")]
 
 // Version information for an assembly consists of the following four values:
 //
